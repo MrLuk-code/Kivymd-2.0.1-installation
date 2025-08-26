@@ -1,7 +1,7 @@
 # # Installing KivyMD 2.0.1 (Latest)
 
 *A complete installation guide for KivyMD 2.0.1 with dependencies and setup instructions.*
-![Example]('Images/1756196804338.jpg')
+![Example](Images/1756196804338.jpg)
 
 ---
 
