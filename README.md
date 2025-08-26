@@ -1,7 +1,8 @@
 # # Installing KivyMD 2.0.1 (Latest)
 
 *A complete installation guide for KivyMD 2.0.1 with dependencies and setup instructions.*
-![Example](images/1756196804338.jpg)
+![Example](Images/1756196804338.jpg)
+
 ---
 
 ## 📖 Overview
@@ -50,7 +51,7 @@ If you prefer to create a **new virtual environment** for each project:
 
 6. **Extract the downloaded ZIP file** *(recommended: extract on Desktop).
 (📷 Add screenshot here: Extracted folder on Desktop)*
-![Extracted Folder](images/1756195791953.jpg)
+![Extracted Folder](Images/1756195791953.jpg)
 
 7. **Navigate to the extracted directory** using the terminal.
 Assuming your virtual environment is named myenv, you can run:
@@ -82,19 +83,19 @@ If you want to install **globally** (without creating a virtual environment):
 
 3. **Extract the ZIP file** (e.g., to Desktop).
 *(📷 screenshot : Open file window with extracted folder)*
-   ![Extracted Folder](images/1756195791953.jpg)
+   ![Extracted Folder](Images/1756195791953.jpg)
 
 4. **Highlight the folder** address in File Explorer, **delete** the highlighted address and type cmd, and press **Enter.**
 This will open a terminal directly inside the extracted folder.
 *(📷 Add screenshot here: highlighted folder address + CMD window open)*
-   ![Highlighted address](images/1756195797307.jpg)
+   ![Highlighted address](Images/1756195797307.jpg)
    
 6. **Run the installation command**
    ```bash
    python setup.py install
    ```
 
-![Highlighted address](images/1756195808210.jpg)
+![Highlighted address](Images/1756195808210.jpg)
 
 ---
 
